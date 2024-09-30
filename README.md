@@ -4,7 +4,6 @@
 			,  un  método recursivo  es  un  método  que  se  llama  así  mismo  ya  sea  directamente  o  indirectamente  a través  de  otro  método.  Los  enfoques  recursivos  para resolver  problemas  tienen  varios elementos  en  común.  El  método  en  si  sabe  como  resolver  el  o  los  casos  más sencillos  los llamados casos base.  </p>
 			<p>Como un ejemplo ilustrativo, escribí un sencillo programa que contiene las funciones Fibonacci y factorial.</p>
 			<div>
-<IMG src="images/recursiveNote.png">
 </div><br>
 			<p>El programa se escribió en un proyecto Xamarin</p>
 			<div><b>Fig 1. El programa en el entorno de Xamarin</b></div><br>
